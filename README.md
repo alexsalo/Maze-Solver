@@ -2,6 +2,7 @@
 Input:
   closed-borders solvable maze
 Example:
+~~~java
 +--+--+--+--+--+--+--+--+--+--+
 |             S|     |     |  |
 +  +--+--+--+  +--+  +  +  +  +
@@ -23,6 +24,7 @@ Example:
 +  +  +  +--+--+  +  +  +--+  +
 |     |              |        |
 +--+--+--+--+--+--+--+--+--+--+
+~~~
 
 Output:
   List of directions to get from S to F. 
