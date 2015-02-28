@@ -1,7 +1,7 @@
 # Maze-Solver
 Input:
-
-  closed-borders solvable maze
+  * closed-borders solvable maze
+  * 
 Example:
 ~~~java
 +--+--+--+--+--+--+--+--+--+--+
@@ -28,5 +28,4 @@ Example:
 ~~~
 
 Output:
-
-  List of directions to get from S to F. 
+  * List of directions to get from S to F. 
