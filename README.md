@@ -1,7 +1,7 @@
 # Maze-Solver
 Input:
   * closed-borders solvable maze
-  * 
+
 Example:
 ~~~java
 +--+--+--+--+--+--+--+--+--+--+
